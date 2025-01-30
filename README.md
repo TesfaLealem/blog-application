@@ -94,6 +94,7 @@ src/
 Technologies Used
 
     Spring Boot: For the backend framework and RESTful API implementation.
+    
     Spring Data JPA: For interacting with the database using JPA repositories.
 
 
